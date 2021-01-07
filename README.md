@@ -1,2 +1,18 @@
 # cs-notes
-Containing notes from Operating Systems and Networks, Artificial Intelligence, Database Systems and Algorithms
+Containing notes from:
+
+### y1
+- Maths I
+- Maths II
+- Design of Information Structures
+- Organisation & Architecture
+- Programming I
+
+### y2
+- Operating Systems & Networks
+- Artificial Intelligence
+- Algorithms
+
+
+
+
